@@ -1,6 +1,6 @@
 public class xor_and {
 public static void main(String s[]) {
-String Message = "vitthal"; 
+String Message = "Hellow"; 
 int var1 = 127; 
 int var2[] = new int[20]; 
 //and
